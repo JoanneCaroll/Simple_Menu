@@ -2,11 +2,8 @@
 <resources>
 
     <string name="app_name">SimpleMenu</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="add">Add</string>
-    <string name="edit">Edit</string>
-    <string name="save">Save</string>
-    <string name="delete">Delete</string>
-    <string name="load">Load</string>
-    
+    <string name="display_text">Test</string>
+    <string name="set_color">Choose Color</string>
+    <string name="set_size">Choose Size</string>
+
 </resources>
